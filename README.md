@@ -23,3 +23,5 @@ You will get ⃀ as output
 
 
 That's all for the installation
+
+For more details visit  https://cloud.erpgulf.com/blog/news/we-have-released-font-for-new-saudi-riyal-symbol-
