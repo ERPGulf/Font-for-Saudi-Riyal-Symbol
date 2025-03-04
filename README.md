@@ -25,3 +25,26 @@ You will get ⃀ as output
 That's all for the installation
 
 For more details visit  https://cloud.erpgulf.com/blog/news/we-have-released-font-for-new-saudi-riyal-symbol-
+
+
+
+Guidlines from Central bank
+
+
+1-The symbol should always appear to the left of the numerical value.
+
+2- There should be a space between the symbol and the number
+
+3-The symbol should maintain its correct shape and proportions.
+
+4-The symbol should keep its original geometric structure.
+
+5- The height of the symbol should match the height of the text.
+
+6-The symbol’s direction should match the text direction.
+
+7-The symbol should be placed in a space that preserves its proportions.
+
+8-The symbol should maintain clear contrast with the background.
+
+Please see the image for clear understanding https://docs.claudion.com/private/files/guidlines.png 
