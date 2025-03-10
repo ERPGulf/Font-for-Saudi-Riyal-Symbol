@@ -1,6 +1,6 @@
 If you are using windows or Mac, you can download the font from this link https://cloud.erpgulf.com/files/Claudion.ttf
 
-(⃀ U+20C0)  is the code.  You can add that code to a key-shortcut on Windows or mac for easy use. 
+(⃀ U+20C0 , U+E900  , U+FDFC ) are the coded. You can use any one of it .  You can add that code to a key-shortcut on Windows or mac for easy use. 
 
 
 To setup up Frappe ERPNext server, please follow the below steps.
@@ -18,6 +18,10 @@ sudo fc-cache -f -v
 You can test the font by typing following command
 
 echo -e "\u20C0"
+or
+echo -e "\uE900"
+or
+echo -e "\uFDFC"
 
 You will get ⃀ as output
 
